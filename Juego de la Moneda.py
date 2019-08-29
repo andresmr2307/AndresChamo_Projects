@@ -15,5 +15,5 @@ while input("Quieres lanzar una moneda? [y|n]: \n") == 'y':
 
 
 else:
-    print("Haz lanzado la moneda",lanzamientos,"times")
+    print("Haz lanzado la moneda",lanzamientos,"veces")
     print("Blaos")
